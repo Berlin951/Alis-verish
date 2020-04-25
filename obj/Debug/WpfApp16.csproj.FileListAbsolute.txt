@@ -1,0 +1,15 @@
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\bin\Debug\WpfApp16.exe.config
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\bin\Debug\WpfApp16.exe
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\bin\Debug\WpfApp16.pdb
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.csprojAssemblyReference.cache
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\App.g.cs
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16_MarkupCompile.cache
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16_MarkupCompile.lref
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.g.resources
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.Properties.Resources.resources
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.csproj.GenerateResource.cache
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.exe
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\WpfApp16.pdb
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\View\MainWindow.g.cs
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\View\MainWindow.baml
+C:\Users\KAMRAN\source\repos\WpfApp16\WpfApp16\obj\Debug\GeneratedInternalTypeHelper.g.cs
