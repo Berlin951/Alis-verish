@@ -43,9 +43,9 @@ namespace WpfApp16.ViewModel
             };
             BuyedProducts = new ObservableCollection<Product>
             {
-                 // new Product{Photo="/iphone.png", Name="Iphone 11 PRO" , Price="2199 Azn"  }
+                // new Product{Photo="/iphone.png", Name="Iphone 11 PRO" , Price="2199 Azn"  }
             };
-            BuyCommand = new RelayCommand(BuyCommandExecute);
+            BuyCommand = new RelayCommand( BuyCommandExecute );
         }
         public void BuyCommandExecute(object param)
         {
